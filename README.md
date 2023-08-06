@@ -1,4 +1,4 @@
-# baby_unbalanced. 
+# baby_unbalanced
 ### 데이터 불균형 관련
 
 #### 01) audiomentations library  
